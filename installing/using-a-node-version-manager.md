@@ -6,8 +6,8 @@ will help you keep track of what version you are using, and also make it
 easy to install new versions and switch between them. They also make
 npm easier to set up :)
 
-- [OSX, *nix] `nvm`: https://github.com/creationix/nvm
-- [Windows] `nodist`: https://github.com/marcelklehr/nodist
+- [OSX, *nix] `nvm`: https://github.com/nvm-sh/nvm
+- [Windows] `nodist`: https://github.com/nullivex/nodist
 
 ### Installing Node.js and npm
 
